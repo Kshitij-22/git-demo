@@ -1,0 +1,27 @@
+Start working on new project 
+	1. Created project on github 
+	2. Clone to local 
+	3. Add code to repo
+	
+For existing project	
+	1. Create spring boot project on my local
+	2. Did some POC
+	3. Create a github project
+	4. Update git remote to point to github project. 
+	Git remote add origin github-url
+	
+	
+Comamnds 
+git init - Initializes a git project
+git remote add origin - Connect github project to local repo
+git remote -v - show remote and urls. Find which github remote repo you are using
+git branch - shows current branch
+git status -shows uncommited file
+git add . - add files to staging
+git commit - Commit file
+git push - push changes to remote repo
+git checkout -b branch-name - Create new branch
+
+
+
+	
